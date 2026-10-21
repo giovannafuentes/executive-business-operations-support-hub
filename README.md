@@ -71,17 +71,17 @@ A central principle of the project is:
 The system was built in Notion with connected operational databases for:
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Executive%20Priority-1F4E79?style=for-the-badge&labelColor=1F4E79&color=1F4E79" />
+  <img src="https://img.shields.io/badge/-Executive%20Priority-1F4E79?style=for-the-badge" />
   &nbsp; ➜ &nbsp;
-  <img src="https://img.shields.io/badge/Meeting%20%26%20Pre--Brief-2563EB?style=for-the-badge&labelColor=2563EB&color=2563EB" />
+  <img src="https://img.shields.io/badge/-Meeting%20%26%20Pre--Brief-2563EB?style=for-the-badge" />
   &nbsp; ➜ &nbsp;
-  <img src="https://img.shields.io/badge/Decision-0E7490?style=for-the-badge&labelColor=0E7490&color=0E7490" />
+  <img src="https://img.shields.io/badge/-Decision-0E7490?style=for-the-badge" />
   &nbsp; ➜ &nbsp;
-  <img src="https://img.shields.io/badge/Action%20%7C%20Owner%20%7C%20Due%20Date-1F4E79?style=for-the-badge&labelColor=1F4E79&color=1F4E79" />
+  <img src="https://img.shields.io/badge/-Action%20%7C%20Owner%20%7C%20Due%20Date-1F4E79?style=for-the-badge" />
   &nbsp; ➜ &nbsp;
-  <img src="https://img.shields.io/badge/Follow--Through%20%26%20Escalation-2563EB?style=for-the-badge&labelColor=2563EB&color=2563EB" />
+  <img src="https://img.shields.io/badge/-Follow--Through%20%26%20Escalation-2563EB?style=for-the-badge" />
   &nbsp; ➜ &nbsp;
-  <img src="https://img.shields.io/badge/Executive%20Dashboard-0E7490?style=for-the-badge&labelColor=0E7490&color=0E7490" />
+  <img src="https://img.shields.io/badge/-Executive%20Dashboard-0E7490?style=for-the-badge" />
 </p>
 
 1. **Executive Priorities** — strategic initiatives, owners, milestones, risk, and progress
@@ -278,15 +278,15 @@ The operating model is designed so that, with the appropriate integrations, perm
 Example architecture:
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Approved%20Travel%20%26%20Booking-1F4E79?style=for-the-badge&labelColor=1F4E79&color=1F4E79" />
+  <img src="https://img.shields.io/badge/-Approved%20Travel%20%26%20Booking-1F4E79?style=for-the-badge" />
   &nbsp; ➜ &nbsp;
-  <img src="https://img.shields.io/badge/Notion%20Live%20Travel%20Brief-2563EB?style=for-the-badge&labelColor=2563EB&color=2563EB" />
+  <img src="https://img.shields.io/badge/-Notion%20Live%20Travel%20Brief-2563EB?style=for-the-badge" />
   &nbsp; ➜ &nbsp;
-  <img src="https://img.shields.io/badge/Google%20Calendar-0E7490?style=for-the-badge&labelColor=0E7490&color=0E7490" />
+  <img src="https://img.shields.io/badge/-Google%20Calendar-0E7490?style=for-the-badge" />
   &nbsp; ➜ &nbsp;
-  <img src="https://img.shields.io/badge/Slack%20Travel%20Update-1F4E79?style=for-the-badge&labelColor=1F4E79&color=1F4E79" />
+  <img src="https://img.shields.io/badge/-Slack%20Travel%20Update-1F4E79?style=for-the-badge" />
   &nbsp; ➜ &nbsp;
-  <img src="https://img.shields.io/badge/PDF%20Offline%20Backup-2563EB?style=for-the-badge&labelColor=2563EB&color=2563EB" />
+  <img src="https://img.shields.io/badge/-PDF%20Offline%20Backup-2563EB?style=for-the-badge" />
 </p>
 
 **Automation layer:** Notion source of truth → Make / Zapier → Google Calendar and Slack
